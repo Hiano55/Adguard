@@ -1,0 +1,29 @@
+! Block common ad domains
+||ads.google.com^
+||doubleclick.net^
+||adservice.google.com^
+||googleadservices.com^
+||pagead2.googlesyndication.com^
+||securepubads.g.doubleclick.net^
+||adserver.yahoo.com^
+||adserver2.msn.com^
+||ads.msn.com^
+
+! Block common tracking domains
+||facebook.com^
+||connect.facebook.net^
+||graph.facebook.com^
+||analytics.twitter.com^
+||t.co^
+||cdnjs.cloudflare.com^
+||cloudflareinsights.com^
+||ads.twitter.com^
+
+! Block common malware domains
+||badsite.com^
+||maliciousdomain.com^
+
+! Additional ad and tracking domains
+||track.example.com^
+||analytics.example.com^
+||ads.example.com^
