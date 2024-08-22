@@ -28,6 +28,7 @@
 ||analytics.example.com^
 ||ads.example.com^
 
+
 ! Block common YouTube ad domains
 ||googlevideo.com^$important
 ||youtube-nocookie.com^$important
