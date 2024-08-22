@@ -27,3 +27,39 @@
 ||track.example.com^
 ||analytics.example.com^
 ||ads.example.com^
+
+! Block common YouTube ad domains
+||googlevideo.com^$important
+||youtube-nocookie.com^$important
+||s.ytimg.com^$important
+||ytimg.com^$important
+||googleadservices.com^$important
+||pagead2.googlesyndication.com^$important
+||securepubads.g.doubleclick.net^$important
+||yt3.ggpht.com^$important
+
+! Block common streaming ad domains (e.g., Hulu, Twitch)
+||ads.hulu.com^
+||ads.twitch.tv^
+||spade.twitch.tv^
+||ads.cbsinteractive.com^
+||delivery.vidible.tv^
+||ads.auditude.com^
+||ads.w55c.net^
+||dai.google.com^
+||ads-r-us.akamaihd.net^
+||pubads.g.doubleclick.net^
+||ima3.googleapis.com^
+||v.doubleclick.net^
+||ads.mopub.com^
+||adcontrol.adobedtm.com^
+
+! Block common general streaming trackers and ad domains
+||conviva.com^
+||scorecardresearch.com^
+||tracking.trackjs.com^
+||b.scorecardresearch.com^
+||tvsquared.com^
+||streamrail.net^
+||analytics.hulu.com^
+||metrics.brightcove.com^
