@@ -29,17 +29,6 @@
 ||analytics.example.com^
 ||ads.example.com^
 
-
-! Block common YouTube ad domains
-||googlevideo.com^$important
-||youtube-nocookie.com^$important
-||s.ytimg.com^$important
-||ytimg.com^$important
-||googleadservices.com^$important
-||pagead2.googlesyndication.com^$important
-||securepubads.g.doubleclick.net^$important
-||yt3.ggpht.com^$important
-
 ! Block common streaming ad domains (e.g., Hulu, Twitch)
 ||ads.hulu.com^
 ||ads.twitch.tv^
